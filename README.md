@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamilareAleji
 - 👀 I’m interested in Full Stack Development and Open Source Projects
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML5, CSS3, and JavaScript
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me (alejigideonabidemi@gmail.com)
 
